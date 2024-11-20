@@ -1,0 +1,79 @@
+﻿@using EmpCRUD_07_09_24.Models
+@{
+    ViewBag.Title = "EmpCRUD";
+    Empdetails E = new Empdetails();
+}
+<h2>EmpCRUD</h2>
+<div>
+   @using (Html.BeginForm())
+   {
+       <p>@ViewBag.Message</p>
+       <table>
+           <tr>
+               <th>
+                   Enter Empid
+               </th>
+               <td>
+                   @Html.TextBoxFor(model => E.empid)
+               </td>
+           </tr>
+           <tr>
+               <th>
+                   Enter Ename
+               </th>
+               <td>
+                   @Html.TextBoxFor(model => E.Ename)
+               </td>
+           </tr>
+           <tr>
+               <th>
+                   Enter designation
+               </th>
+               <td>
+                   @Html.TextBoxFor(model => E.designation)
+               </td>
+           </tr>
+           <tr>
+               <th>
+                   Enter DOJ
+               </th>
+               <td>
+                   @Html.TextBoxFor(model => E.DOJ)
+               </td>
+           </tr>
+           <tr>
+               <th>
+                   Enter Salary
+               </th>
+               <td>
+                   @Html.TextBoxFor(model => E.Salary)
+               </td>
+           </tr>
+           <tr>
+               <th>
+                   Enter Deptno
+               </th>
+               <td>
+                   @Html.TextBoxFor(model => E.Deptno)
+               </td>
+           </tr>
+           <tr>
+               <th>
+                   <input type="submit" name="B1" value="insert" />
+                   </th>
+       <td>
+                   <input type="submit" name="B1" value="update"/>
+               </td>
+           </tr>
+           <tr>
+               <th>
+                   <input type="submit" name="B1" value="delete"/>
+               </th>
+               <td>
+
+               </td>
+           </tr>
+       </table>
+   }
+</div>
+

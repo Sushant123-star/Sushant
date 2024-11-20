@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC Codes\\EmpCRUD_07_09_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC01F74D-CE2D-40C1-B230-77440DA32FF4}|EmpCRUD_07_09_24.csproj|d:\\mvc codes\\empcrud_07_09_24\\models\\empdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC01F74D-CE2D-40C1-B230-77440DA32FF4}|EmpCRUD_07_09_24.csproj|solutionrelative:models\\empdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC01F74D-CE2D-40C1-B230-77440DA32FF4}|EmpCRUD_07_09_24.csproj|D:\\MVC Codes\\EmpCRUD_07_09_24\\views\\employee\\empcrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC01F74D-CE2D-40C1-B230-77440DA32FF4}|EmpCRUD_07_09_24.csproj|solutionrelative:views\\employee\\empcrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC01F74D-CE2D-40C1-B230-77440DA32FF4}|EmpCRUD_07_09_24.csproj|D:\\MVC Codes\\EmpCRUD_07_09_24\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC01F74D-CE2D-40C1-B230-77440DA32FF4}|EmpCRUD_07_09_24.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpCRUD.cshtml",
+              "DocumentMoniker": "D:\\MVC Codes\\EmpCRUD_07_09_24\\Views\\Employee\\EmpCRUD.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\EmpCRUD.cshtml",
+              "ToolTip": "D:\\MVC Codes\\EmpCRUD_07_09_24\\Views\\Employee\\EmpCRUD.cshtml",
+              "RelativeToolTip": "Views\\Employee\\EmpCRUD.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T14:23:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\MVC Codes\\EmpCRUD_07_09_24\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\MVC Codes\\EmpCRUD_07_09_24\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:01:30.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empdetails.cs",
+              "DocumentMoniker": "D:\\MVC Codes\\EmpCRUD_07_09_24\\Models\\Empdetails.cs",
+              "RelativeDocumentMoniker": "Models\\Empdetails.cs",
+              "ToolTip": "D:\\MVC Codes\\EmpCRUD_07_09_24\\Models\\Empdetails.cs",
+              "RelativeToolTip": "Models\\Empdetails.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwEAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:36:54.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
